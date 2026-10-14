@@ -1,0 +1,6 @@
+{
+  "name": "Student Manager",
+  "description": "Advanced Student Management System integrated with Google Sheets and Cloudinary.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
